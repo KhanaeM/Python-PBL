@@ -1,1 +1,9 @@
-List , linked list, double linked list 
+List, singly linked list, doubly linked list 
+
+Projects Ideas
+
+To-Do List Manager:
+* Create a to-do list manager using a linked list. You can add, delete, and manage tasks efficiently, practicing the use of linked lists.
+
+Parking Lot Simulation with Queues:
+* Create a parking lot simulation that uses a queue to manage vehicles entering and leaving the parking lot.
